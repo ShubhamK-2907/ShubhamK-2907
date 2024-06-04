@@ -12,25 +12,25 @@
 -       Loves popping heads on Valorant
 
 
-## Tech Stack
+## Tech Stack ✨
 
 ### Frontend Development
--  React, Next.js, TypeScript, Tailwind, Material-UI, Framer-Motion, SCSS, ThreeJS, ShadCN
+      React, Next.js, TypeScript, Tailwind, Material-UI, Framer-Motion, SCSS, ThreeJS, ShadCN
 
 ### Version Control
--  Git, Github, SourceTree
+      Git, Github, SourceTree
 
 ### Backend Development
--  NodeJs, GraphQL, Firebase
+      NodeJs, GraphQL, Firebase
 
 ### Testing
--  Jest, Vitest, Postman, Insomnia
+      Jest, Vitest, Postman, Insomnia
 
 ### Others
--  Scrum, Confluence, Jira
+        Scrum, Confluence, Jira
 
 
-## Fun Facts
--  My favourite Anime is Death Note
--  As a kid, I wanted to be a scientist
--  I use Vim
+## Fun Facts ✨
+        My favourite Anime is Death Note ⛩️
+        As a kid, I wanted to be a scientist 🧪
+        I use Vim 👨‍💻
