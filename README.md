@@ -90,7 +90,7 @@ Last 2 years, hardcore focus on front-end development on top of React and Typesc
 | Position | Company | Date Range | Description |  
 | ------------- | ------------- | ------------- | ------------- |
 | Software Engineer | Udooh - Hyperlocal DOOH advertising platform | May 2024 - Present | Leading the platform development and MVP definition to acquire the first set of paying customers |
-| Associate Software Engineer | Lifesight - Unified Marketing Measurements Platform | July 2022 - May 2024 | Engineered features, performed bug fixes, wrote unit and E2E tests, and collaboratively reviewed teammates’ code |
+| Associate Software Engineer (UI) | Lifesight - Unified Marketing Measurements Platform | July 2022 - May 2024 | Engineered features, performed bug fixes, wrote unit and E2E tests, and collaboratively reviewed teammates’ code |
 
 ### Education
 
