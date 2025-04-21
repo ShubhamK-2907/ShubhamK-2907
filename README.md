@@ -89,7 +89,7 @@ Last 2 years, hardcore focus on front-end development on top of React and Typesc
 | Position | Company | Date Range | Description |  
 | ------------- | ------------- | ------------- | ------------- |
 | Software Engineer | Astria Digital | Feb 2025 - Present 
-| Software Engineer (UI) | Udooh - Hyperlocal DOOH advertising platform | May 2024 - Feb 2025 | Leading the platform development and MVP definition to acquire the first set of paying customers |
+| Software Engineer (UI) | Udooh - Hyperlocal DOOH advertising platform | May 2024 - Jan 2025 | Leading the platform development and MVP definition to acquire the first set of paying customers |
 | Associate Software Engineer (UI) | Lifesight - Unified Marketing Measurements Platform | July 2022 - May 2024 | Engineered features, performed bug fixes, wrote unit and E2E tests, and collaboratively reviewed teammates’ code |
 
 ### Education
