@@ -6,7 +6,6 @@ Last 2 years, hardcore focus on front-end development on top of React and Typesc
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [shubhamk2907@gmail.com](mailto:shubhamk2907@gmail.com)
-* 🧠  I am currently working on a Hyperlocal DOOH Marketing and Measurements platform
 * ⚡  Fun Fact: I love popping heads in Valorant
 
 ### Skills
