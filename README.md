@@ -2,7 +2,7 @@ Hii! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 =======================================================================================================================================
 
 A passionate developer dedicated to creating innovative solutions for real-world problems. Shubham Kumar Sahoo here, a proud 2022 graduate from PES University (CSE | BTech). Beyond my knack for coding, I absolutely thrive on gaming, Marvel, and travelling.
-Last 2 years, hardcore focus on front-end development on top of React and Typescript with intermediate experience on backend technologies. Worked with 4-5 member teams, operating at maximum capacity under strict deadlines as an Individual Contributor- thanks to the Startup Hustle🔥!
+Last 3 years, hardcore focus on front-end development on top of React and Typescript with intermediate experience on backend technologies. Worked with 4-5 member teams, operating at maximum capacity under strict deadlines as an Individual Contributor- thanks to the Startup Hustle🔥!
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [shubhamk2907@gmail.com](mailto:shubhamk2907@gmail.com)
