@@ -87,7 +87,7 @@ Last 3 years, hardcore focus on front-end development on top of React and Typesc
 
 | Position | Company | Date Range | Description |  
 | ------------- | ------------- | ------------- | ------------- |
-| Software Engineer II | Hinge Health | Oct 2025 - Present |  |
+| Software Engineer II | Hinge Health | Oct 2025 - Present | Hinge Health is pioneering the world's most patient-centered Digital Musculoskeletal (MSK) Clinic. We reduce MSK pain, opioid use, and surgeries by pairing advanced wearable technology with a comprehensive clinical care team, including doctors of physical therapy, physicians, board-certified health coaches, and more. Available to millions of members, Hinge Health is the #1 Digital MSK Clinic for health plans and employers, including Boeing, Salesforce, and US Foods.  |
 | Software Engineer | Astria Digital | Feb 2025 - May 2025 | Developed communication platform and redesigned the service booking flow UI to manage customer conversations and service requests |
 | Associate Software Engineer (UI) | Lifesight - Unified Marketing Measurements Platform | July 2022 - May 2024 | Engineered features, performed bug fixes, wrote unit and E2E tests, and collaboratively reviewed teammates’ code |
 
