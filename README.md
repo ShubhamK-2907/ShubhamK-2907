@@ -9,6 +9,7 @@ Last 4 years, hardcore focus on building production-grade AI systems, LLM infras
 * ✉️  You can contact me at [shubhamk2907@gmail.com](mailto:shubhamk2907@gmail.com)
 * ⚡  Fun Fact: I love popping heads in Valorant
 
+
 ### Skills
 
 <p align="left">
@@ -43,6 +44,23 @@ Last 4 years, hardcore focus on building production-grade AI systems, LLM infras
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+
+
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="aws logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq logo" />
+
+  <img src="https://cdn.simpleicons.org/langchain/35A687" height="40" alt="langchain logo" />
 </p>
 
 ### Version Control
@@ -52,7 +70,9 @@ Last 4 years, hardcore focus on building production-grade AI systems, LLM infras
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="sourcetree logo"  />
   <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </p>
 
 ### Testing
@@ -61,6 +81,11 @@ Last 4 years, hardcore focus on building production-grade AI systems, LLM infras
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /> <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" alt="mocha logo"  />
   <img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo" />
+  <img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright logo" />
 </p>
 
 ### Others
