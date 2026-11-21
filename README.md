@@ -1,8 +1,9 @@
 Hii! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shubham Kumar Sahoo
 =======================================================================================================================================
 
-A passionate developer dedicated to creating innovative solutions for real-world problems. Shubham Kumar Sahoo here, a proud 2022 graduate from PES University (CSE | BTech). Beyond my knack for coding, I absolutely thrive on gaming, Marvel, and travelling.
-Last 4 years, hardcore focus on front-end development on top of React and Typescript with intermediate experience on backend technologies. Worked with 4-5 member teams, operating at maximum capacity under strict deadlines as an Individual Contributor- thanks to the Startup Hustle🔥!
+A passionate AI Engineer dedicated to creating innovative solutions for real-world problems. Shubham Kumar Sahoo here, a proud 2022 graduate from PES University (CSE | BTech). Beyond my knack for coding, I absolutely thrive on gaming, Marvel, and travelling.
+
+Last 4 years, hardcore focus on building production-grade AI systems, LLM infrastructure, RAG pipelines, and agentic workflows, backed by hands-on experience in backend engineering, distributed systems, and cloud technologies. Worked with 4-5 member teams, operating at maximum capacity under strict deadlines as an Individual Contributor — thanks to the Startup Hustle🔥!
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [shubhamk2907@gmail.com](mailto:shubhamk2907@gmail.com)
@@ -82,13 +83,13 @@ Last 4 years, hardcore focus on front-end development on top of React and Typesc
 
 ### Experience
 
----
-
-| Position | Company | Date Range | Description |  
-| ------------- | ------------- | ------------- | ------------- |
-| Software Engineer II | Hinge Health | Oct 2025 - Mar 2026 | Hinge Health is pioneering the world's most patient-centered Digital Musculoskeletal (MSK) Clinic. We reduce MSK pain, opioid use, and surgeries by pairing advanced wearable technology with a comprehensive clinical care team, including doctors of physical therapy, physicians, board-certified health coaches, and more. Available to millions of members, Hinge Health is the #1 Digital MSK Clinic for health plans and employers, including Boeing, Salesforce, and US Foods.  |
-| Software Engineer | Astria Digital | Feb 2025 - May 2025 | Developed communication platform and redesigned the service booking flow UI to manage customer conversations and service requests |
-| Associate Software Engineer (UI) | Lifesight - Unified Marketing Measurements Platform | July 2022 - May 2024 | Engineered features, performed bug fixes, wrote unit and E2E tests, and collaboratively reviewed teammates’ code |
+| Position | Company | Date Range | Description |
+|----------|---------|------------|-------------|
+| Software Consultant (AI Engineer) | Software Consultant | Mar 2026 – Present | Designing and building production-grade Generative AI systems, focusing on LLM evaluation, retrieval optimization, RAG architectures, and AI guardrails to improve reliability and trustworthiness. |
+| Software Engineer II | Hinge Health | Oct 2025 – Mar 2026 | Hinge Health is pioneering the world's most patient-centered Digital Musculoskeletal (MSK) Clinic. We reduce MSK pain, opioid use, and surgeries by pairing advanced wearable technology with a comprehensive clinical care team, including doctors of physical therapy, physicians, board-certified health coaches, and more. Available to millions of members, Hinge Health is the #1 Digital MSK Clinic for health plans and employers, including Boeing, Salesforce, and US Foods. |
+| Software Engineer | Astria Digital | Feb 2025 – May 2025 | Developed AI-powered systems focusing on LLM optimization, prompt engineering, and machine learning pipelines to improve model performance and enterprise automation. |
+| Founding Lead Engineer | Udooh (Bootstrapped Startup) | Jun 2024 – Jan 2025 | Led engineering and technical architecture for a multi-tenant digital advertising platform, focusing on scalable infrastructure, system reliability, and cloud cost optimization. |
+| Associate Software Engineer (UI) | Lifesight - Unified Marketing Measurements Platform | July 2022 – May 2024 | Engineered features, performed bug fixes, wrote unit and E2E tests, and collaboratively reviewed teammates’ code |
 
 ### Education
 
